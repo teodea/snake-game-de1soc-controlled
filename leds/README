@@ -1,0 +1,9 @@
+This program reads the value of the slider switches on the DE1-SoC board, then writes the value to the LEDs.
+
+To compile the program use the following command:
+
+  gcc leds.c -o leds
+
+Execute using:
+
+  ./leds
